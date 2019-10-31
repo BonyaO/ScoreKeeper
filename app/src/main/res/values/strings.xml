@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+    <string name="red_cards">Red Cards</string>
+    <string name="yellow_cards">Yellow Cards</string>
+    <string name="fifty">50</string>
+    <string name="ball_possession">Ball Possession (%)</string>
+    <string name="fouls">Fouls</string>
+    <string name="goals">Goals</string>
+    <string name="football">Football</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="league_one">League One Football Match Stats</string>
+</resources>
